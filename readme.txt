@@ -6,4 +6,4 @@ Hello world!
 Creating a new branch is quick.
 Are you sure?????
 
-this is branch master
+this is branch new__master
